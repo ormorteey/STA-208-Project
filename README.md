@@ -11,7 +11,5 @@ Initially, we will treat infection detection as a binary classification problem,
 
 - Create makefile to download/unzip file on user's local device
     - `eda.ipynb` needs the coronahack dataset to be placed into a `data` directory
-- SVM
-- CNNs
-    - ResNet
-    - Deep Anomaly Detection
+- Histogram of Oriented Gradient
+- Support Vector Machines
